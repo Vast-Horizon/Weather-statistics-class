@@ -10,5 +10,7 @@ Then the program determines the :
 5. Average of all monthly average temperature\
   
   ==================================================\
-  Here is the output
-  
+  Here is the sample output
+![](demo.jpg)
+Developer: Fiavi Y.\
+2/6/2021
